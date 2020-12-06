@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatchMole</string>
+    <string name="field">field</string>
+    <string name="krot">krot</string>
+</resources>
